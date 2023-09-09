@@ -1,0 +1,23 @@
+h1{
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+p{
+    text-align: left;
+}
+ button{
+    background-color: green;
+    border: none;
+    border-radius: 19px;
+    padding: 10px 19px;
+    font-weight: bold;
+    color: white;
+    
+ }
+ img{
+    width: 4000px;
+    height: 700px;
+ }
